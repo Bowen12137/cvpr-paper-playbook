@@ -26,6 +26,8 @@
 下载或克隆本仓库后进入目录。安装器仅使用 Python 3.9+ 标准库，不需要 API key，也不会联网或上传材料。
 
 ```bash
+git clone https://github.com/Bowen12137/cvpr-paper-playbook.git
+cd cvpr-paper-playbook
 python3 scripts/install.py
 ```
 
