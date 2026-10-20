@@ -1,0 +1,4 @@
+interface:
+  display_name: "CVPR 研究、写作与预审"
+  short_description: "贯通研究定位、章节写作、实验配图、投稿前预审及审稿回复的证据驱动指南"
+  default_prompt: "使用 $cvpr-paper-playbook，评估我的研究主张与证据，给出当前投稿判断、关键缺口和可执行的改进方案。"
