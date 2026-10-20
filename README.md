@@ -125,6 +125,8 @@ python3 -m unittest discover -s tests -v
 
 自动检查覆盖格式、内部链接、可移植性和安装行为。模型行为需要另用 [行为案例](tests/behavioral-cases.md) 验证；结构测试不代表审稿准确率。可直接阅读 [预审示例](examples/pre-review.md) 与 [回复示例](examples/rebuttal.md)。
 
+已完成 [三篇正式论文的规则复核](docs/PAPER_AUDIT_2026-10-20.md)：主文24页、实际查看10页渲染图，并记录补充审读边界。另有 [一次独立代理的合成行为检查](docs/BEHAVIOR_CHECK_2026-10-20.md)。这些检查用于修正规则，不代表录用预测或三年全量统计。
+
 贡献要求见 [贡献说明](docs/CONTRIBUTING.md)。修改应解决一个可复现问题，并说明适用范围；避免把个人偏好变成所有论文的强制规则。
 
 ## 依据和限制
